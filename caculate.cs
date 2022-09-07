@@ -10,6 +10,10 @@ public static class caculate
 			return a;
 		else return b;
 	}
+	public int reduce(int a,int b)
+	{
+		return a-b;
+	}
 }
 
 
